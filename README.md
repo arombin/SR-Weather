@@ -11,9 +11,11 @@
 
 📄 **Paper:** [npj Climate and Atmospheric Science (2026)](https://doi.org/10.1038/s41612-026-01328-5)
 
+
 ## Framework
 
 ![SR-Weather Framework](assets/framework.png)
+
 
 ## Repository Structure
 
@@ -26,10 +28,12 @@ SR-Weather/
 └── README.md
 ```
 
+
 ## Code Description
 
 - **model.py**: Implementation of the SR-Weather neural network architecture.
 - **scm.py**: Implementation of the spatial contextual information construction.
+
 
 ## Citation
 
