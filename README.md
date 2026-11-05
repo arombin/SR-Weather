@@ -1,4 +1,4 @@
-# SR-Weather
+# SR-Weather🌤️
 
 **A super-resolution framework for downscaling machine learning weather prediction toward 1-km air temperature**
 
