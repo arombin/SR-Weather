@@ -41,13 +41,13 @@ If you find this work useful in your research, please cite the following paper:
 
 ```bibtex
 @article{park2026srweather,
-  title   = {A super-resolution framework for downscaling machine learning weather prediction toward 1-km air temperature},
-  author  = {Park, Hyebin and Park, Seonyoung and Kang, Daehyun and Kim, Jeong-Hwan},
-  journal = {npj Climate and Atmospheric Science},
-  volume  = {9},
-  pages   = {56},
-  year    = {2026},
-  doi     = {10.1038/s41612-026-01328-5},
-  url     = {https://doi.org/10.1038/s41612-026-01328-5}
+  title     = {A super-resolution framework for downscaling machine learning weather prediction toward 1-km air temperature},
+  author    = {Park, Hyebin and Park, Seonyoung and Kang, Daehyun and Kim, Jeong-Hwan},
+  journal   = {npj Climate and Atmospheric Science},
+  volume    = {9},
+  articleno = {56},
+  year      = {2026},
+  doi       = {10.1038/s41612-026-01328-5},
+  url       = {https://doi.org/10.1038/s41612-026-01328-5}
 }
 ```
