@@ -3,8 +3,7 @@
 **A super-resolution framework for downscaling machine learning weather prediction toward 1-km air temperature**
 
 [![Paper](https://img.shields.io/badge/Paper-npj%20Climate%20and%20Atmospheric%20Science-blue)](https://doi.org/10.1038/s41612-026-01328-5)
-![Python](https://img.shields.io/badge/Python-3.x-blue)
-![PyTorch](https://img.shields.io/badge/Framework-PyTorch-orange)
+![Python](https://img.shields.io/badge/Python-3.9.12-blue)
 
 ## Overview
 
