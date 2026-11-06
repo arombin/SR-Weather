@@ -34,6 +34,17 @@ SR-Weather/
 - **model.py**: Implementation of the SR-Weather neural network architecture.
 - **scm.py**: Implementation of the spatial contextual information construction.
 
+## SCM Usage
+
+The SCM is constructed from multiple yearly air-temperature datasets stored as NumPy (`.npy`) files.
+
+### Input Data
+
+- Each `.npy` file should contain one year of daily air-temperature data.
+- Expected shape: `(365, 1, height, width)`
+- All input files must have the same shape.
+- Zero values are treated as missing data. Modify this behavior if zero is a valid value in your dataset.
+- Place all yearly `.npy` files in a single directory.
 
 ## Citation
 
